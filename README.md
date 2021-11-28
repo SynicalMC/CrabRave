@@ -1,6 +1,8 @@
+![Crab Rave](http://url/to/img.png)
+
 ### GENERAL INFORMATION:
 
-- An Example Mod for [MelonLoader](https://github.com/LavaGang/MelonLoader).
+
 
 ---
 
